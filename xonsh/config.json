@@ -1,0 +1,15 @@
+{
+ "xontribs": [
+  "apt_tabcomplete",
+  "coreutils",
+  "distributed",
+  "jedi",
+  "prompt_ret_code",
+  "whole_word_jumping",
+  "vox",
+  "vox_tabcomplete",
+  "xo",
+  "powerline",
+  "schedule"
+ ]
+}
